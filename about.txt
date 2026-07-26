@@ -1,2 +1,3 @@
 Name: Pooja H K
 USN:24ECE100
+Course:ECE
